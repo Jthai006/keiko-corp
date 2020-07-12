@@ -1,0 +1,8 @@
+title: Keiko-corp
+description: The greatest startup ever created
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-cayman
+
+gems:
+  - jekyll-mentions
